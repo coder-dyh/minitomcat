@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/miniservletContainer.iml" filepath="$PROJECT_DIR$/miniservletContainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minitomcat/minitomcat.iml" filepath="$PROJECT_DIR$/minitomcat/minitomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webAppWithTomcat/webAppWithTomcat.iml" filepath="$PROJECT_DIR$/webAppWithTomcat/webAppWithTomcat.iml" />
+    </modules>
+  </component>
+</project>
