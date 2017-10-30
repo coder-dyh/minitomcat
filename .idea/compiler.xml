@@ -11,9 +11,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="miniservletContainer" target="1.5" />
-      <module name="minitomcat" target="1.5" />
-      <module name="webAppWithTomcat" target="1.5" />
+      <module name="miniservletContainer" target="1.8" />
+      <module name="minitomcat" target="1.8" />
+      <module name="webAppWithTomcat" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
